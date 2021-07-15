@@ -147,6 +147,10 @@ body {
     /* color: white; */
 }
 
+footer {
+    text-align:center;
+}
+
 /* .banner-text .brand {
     text-shadow: 2px 2px black;
     text-shadow: 2px 2px 8px black;
